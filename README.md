@@ -67,7 +67,7 @@ npx lite-server
 Open http://localhost:3000
 
 📸 Screenshots
-![Weather App Screenshot](/screenshots/weather.png)
+![Weather App Screenshot](./screenshots/weather.png)
 🔮 Future Improvements
 "Feels like" temperature
 
