@@ -43,7 +43,7 @@ text
 ## 🚀 Live Demo
 
 [GitHub Pages Link]  
-*(replace with: `https://eventailer.github.io/your-repo-name/`)*
+*(replace with: `https://eventailer.github.io/Weather-App-Belarus-Cities-on-TS/`)*
 
 ---
 
@@ -51,7 +51,7 @@ text
 
 ```bash
 # Clone the repository
-git clone https://github.com/EvenTailer/weather-app.git
+git clone https://github.com/EvenTailer/Weather-App-Belarus-Cities-on-TS.git
 
 # Navigate to folder
 cd weather-app
