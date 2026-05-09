@@ -43,7 +43,7 @@ text
 ## 🚀 Live Demo
 
 [GitHub Pages Link]  
-*(replace with: `https://eventailer.github.io/Weather-App-Belarus-Cities-on-TS/`)*
+https://eventailer.github.io/Weather-App-Belarus-Cities-on-TS/
 
 ---
 
