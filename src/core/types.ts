@@ -5,6 +5,16 @@ export interface CurrentWeather {
     weatherCode:number;
 }
 
+export interface DailyForecast {
+    time:string[];
+    temperature_2m_max:number[];
+    temperature_2m_min:number[];
+    weather_code:number[];
+    apparent_temperature_max:number[];
+    apparent_temperature_min:number[];
+    precipitation_probability_mean:number[];
+}
+
 export interface WeatherResponse{
     current:{
         temperature_2m:number;
@@ -13,7 +23,9 @@ export interface WeatherResponse{
         wind_speed_10m:number;
         weather_code:number;
         relative_humidity_2m:number;
-    }
+        apparent_temperature:number;
+    };
+    dail?:DailyForecast;
 }
 
 export interface Coordinate{
